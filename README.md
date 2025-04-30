@@ -36,7 +36,7 @@ You can install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 Database Setup
 PostgreSQL Database: This project assumes that you have a PostgreSQL database set up. You can change the database connection details in the .env file.
 
