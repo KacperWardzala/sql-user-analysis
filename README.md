@@ -4,7 +4,18 @@ This project is an analysis of user data, specifically focusing on user sessions
 
 ## Project Structure
 
-sql_project/ ├── data/ │ ├── users_data.csv # CSV file containing user data │ ├── sessions_data.csv # CSV file containing session data │ └── purchases_data.csv # CSV file containing purchase data ├── sql/ │ ├── schema.sql # Database schema definitions │ └── analysis_queries.sql # Analytical SQL queries ├── scripts/ │ ├── load_data.py # Script to load CSV data into PostgreSQL │ └── visualize_data.py # Script to generate visualizations from the data ├── README.md # Project documentation
+sql_project/ 
+├── data/ 
+│ ├── users_data.csv # CSV file containing user data 
+│ ├── sessions_data.csv # CSV file containing session data 
+│ └── purchases_data.csv # CSV file containing purchase data 
+├── sql/ 
+│ ├── schema.sql # Database schema definitions 
+│ └── analysis_queries.sql # Analytical SQL queries 
+├── scripts/ 
+│ ├── load_data.py # Script to load CSV data into PostgreSQL 
+│ └── visualize_data.py # Script to generate visualizations from the data 
+├── README.md # Project documentation
 
 ## Requirements
 
