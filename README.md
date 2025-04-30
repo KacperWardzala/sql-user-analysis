@@ -53,26 +53,26 @@ python scripts/load_data.py
 ## SQL Queries
 The analysis_queries.sql file contains various SQL queries to analyze the data, such as:
 
-*** Number of sessions per user
+- Number of sessions per user
 
-*** Average purchase amount per user
+- Average purchase amount per user
 
-*** Number of purchases per day
+- Number of purchases per day
 
-*** User distribution by country
+- User distribution by country
 
 You can run these queries in PostgreSQL to get insights from the data.
 
 ## Data Visualization
 The visualize_data.py script generates visualizations using the data from the database. The following plots are created:
 
-*** Sessions per User: A bar chart showing the number of sessions for each user.
+1. Sessions per User: A bar chart showing the number of sessions for each user.
 
-*** Average Purchase Amount per User: A bar chart showing the average purchase amount for each user.
+2. Average Purchase Amount per User: A bar chart showing the average purchase amount for each user.
 
-*** Purchases per Day: A bar chart showing the number of purchases made each day.
+3. Purchases per Day: A bar chart showing the number of purchases made each day.
 
-*** User Distribution by Country: A bar chart showing the number of users per country.
+4. User Distribution by Country: A bar chart showing the number of users per country.
 
 To generate the visualizations, run the following command:
 
