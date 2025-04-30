@@ -5,6 +5,7 @@ This project is an analysis of user data, specifically focusing on user sessions
 ## Project Structure
 
 sql_project/ 
+
 ├── data/ 
 
 │ ├── users_data.csv # CSV file containing user data 
